@@ -1,4 +1,5 @@
 *
-!*/*.cpp
+!/**/
+!*.cpp
 !.gitignore
 !README.md
